@@ -27,7 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - Device: [e.g. iPhone6, PC]
  - OS: [e.g. iOS8.1, windows 10]
  - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Browser Version [e.g. 22]
+ - Platform Version [e.g. 0.1.7]
 
 **Additional context**
 Add any other context about the problem here.
